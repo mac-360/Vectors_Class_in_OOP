@@ -107,7 +107,9 @@ The `Vectors` class is a C++ templated dynamic array implementation that provide
 - **void shrink_to_fit()**: Reduces the capacity of the vector to match the current size.
 ### OOP Concepts Used  
 For a comprehensive analysis of the Object-Oriented Programming (OOP) concepts employed in the implementation of the `Vectors` class, we invite you to refer to the following link:  
-[Link to Vectors Class OOP Concepts](https://github.com/mac-360/Vectors_Class_in_OOP/files/12144933/Vectors.Class.docx)  
+
+[Link to Vectors Class OOP Concepts](https://github.com/mac-360/Vectors_Class_in_OOP/files/12146061/Vectors.Class.pdf)
+
 
 This invaluable resource will provide an in-depth exploration of the OOP principles intricately woven into the `Vectors` class. Discover how encapsulation, abstraction, constructor overloading, copy constructor, copy assignment, operator overloading, dynamic memory allocation, destructor, and member functions converge harmoniously to create a robust, reusable, and maintainable dynamic array implementation in C++. Embark on a journey of understanding the elegance and power of OOP within the realm of `Vectors` class, setting the standard for excellence in modern programming paradigms.
 ### Additional Details  
