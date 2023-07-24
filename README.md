@@ -105,6 +105,12 @@ The `Vectors` class is a C++ templated dynamic array implementation that provide
 - **void swap(Vectors& obj)**: Swaps the contents of two vectors.
 
 - **void shrink_to_fit()**: Reduces the capacity of the vector to match the current size.
+### OOP Concepts Used  
+For a comprehensive analysis of the Object-Oriented Programming (OOP) concepts employed in the implementation of the `Vectors` class, we invite you to refer to the following link:
+
+[Link to Vectors Class OOP Concepts]([Vectors Class.docx](https://github.com/mac-360/Vectors_Class_in_OOP/files/12144933/Vectors.Class.docx)    
+
+This invaluable resource will provide an in-depth exploration of the OOP principles intricately woven into the `Vectors` class. Discover how encapsulation, abstraction, constructor overloading, copy constructor, copy assignment, operator overloading, dynamic memory allocation, destructor, and member functions converge harmoniously to create a robust, reusable, and maintainable dynamic array implementation in C++. Embark on a journey of understanding the elegance and power of OOP within the realm of `Vectors` class, setting the standard for excellence in modern programming paradigms.
 ### Additional Details  
 For a comprehensive exploration of C++ vectors and to access illustrative sample programs, we cordially invite you to visit the provided link. This valuable resource, hosted by JavaTpoint, offers expert guidance and practical demonstrations, enabling you to proficiently harness the potential of the vector class in your C++ programming endeavors.  
 #### [C++ Vectors Details with Sample Programs](https://www.javatpoint.com/cpp-vector)    
@@ -117,7 +123,6 @@ Sure, here's the formatted version of the provided links with the images aligned
 [Function List 2]()
 ![Function List 2](https://github.com/mac-360/Vectors_Class_in_OOP/assets/122281916/209c9f68-5df7-4263-8b03-66fb235f0da8)
 
-[Vectors Function]()
 ## Conclusion
 
 The `Vectors` class is a flexible and efficient dynamic array implementation, providing essential vector-like functionality. It allows for easy manipulation of elements and dynamic resizing to accommodate varying data sizes. Developers can use this class as a drop-in replacement for the standard vector container, especially when more control over the memory management is required.
