@@ -107,10 +107,15 @@ The `Vectors` class is a C++ templated dynamic array implementation that provide
 - **void shrink_to_fit()**: Reduces the capacity of the vector to match the current size.
 ### Additional Details  
 For a comprehensive exploration of C++ vectors and to access illustrative sample programs, we cordially invite you to visit the provided link. This valuable resource, hosted by JavaTpoint, offers expert guidance and practical demonstrations, enabling you to proficiently harness the potential of the vector class in your C++ programming endeavors.  
-#### [C++ Vectors](https://www.javatpoint.com/cpp-vector)    
+#### [C++ Vectors Details with Sample Programs](https://www.javatpoint.com/cpp-vector)    
 Explore the comprehensive array of professional and versatile functions available in the esteemed Vectors class. This illustrative image showcases the power and flexibility of the class, providing a glimpse into the multitude of operations that can be effortlessly performed to manage dynamic arrays and optimize data handling. Embark on your journey to proficiency and efficiency with the exceptional functionality offered by the Vectors class.    
-[Function List 1]()  <img width="737" alt="Functionlist1" src="https://github.com/mac-360/Vectors_Class_in_OOP/assets/122281916/0fe31eb1-e414-4409-b235-98b90a65deec">
-[Function List 2]()<img width="734" alt="FunctionList2" src="https://github.com/mac-360/Vectors_Class_in_OOP/assets/122281916/209c9f68-5df7-4263-8b03-66fb235f0da8">
+Sure, here's the formatted version of the provided links with the images aligned perfectly below each other:
+
+[Function List 1]()
+![Function List 1](https://github.com/mac-360/Vectors_Class_in_OOP/assets/122281916/0fe31eb1-e414-4409-b235-98b90a65deec)
+
+[Function List 2]()
+![Function List 2](https://github.com/mac-360/Vectors_Class_in_OOP/assets/122281916/209c9f68-5df7-4263-8b03-66fb235f0da8)
 
 [Vectors Function]()
 ## Conclusion
